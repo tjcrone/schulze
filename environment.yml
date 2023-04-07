@@ -1,0 +1,10 @@
+name: schulze
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - jupyterlab
+  - ipydatagrid
+  - pip
